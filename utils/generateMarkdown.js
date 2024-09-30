@@ -62,9 +62,9 @@ node index.js
 Follow the prompts to enter project details like title, description, license, and more.
 
 ### Demo Video
-[![Watch the demo video](./assets/readme-thumbnail.jpg)](https://drive.google.com/file/d/1_9zT3OpjmrCfQxsHsm1x_3QI4pHRYDnf/view?usp=sharing)
+[![Watch the demo video](./assets/images/readme-thumbnail.jpg)](https://drive.google.com/file/d/1_9zT3OpjmrCfQxsHsm1x_3QI4pHRYDnf/view?usp=sharing)
 
-This demo shows the program's features, including generating a README file based on user inputs.
+This demo shows the program's features, including generating a README file based on user inputs. Click or tap the image to watch the video!
 
 
 ## License
