@@ -1,8 +1,8 @@
-# README Generator
+# j
 
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 
-Created a professional README generator to be completed on a command line application. Asks the user questions and takes the user's input and generates a README.
+j
 
 ## Table of Contents
 - [Description](#description)
@@ -14,7 +14,7 @@ Created a professional README generator to be completed on a command line applic
 - [Questions](#questions)
 
 ## Description
-Created a professional README generator to be completed on a command line application. Asks the user questions and takes the user's input and generates a README.
+j
 
 ## Installation
 To install the necessary dependencies, run the following command:
@@ -32,6 +32,12 @@ node index.js
 
 Follow the prompts to enter project details like title, description, license, and more.
 
+### Demo Video
+[![Watch the demo video](./assets/readme-thumbnail.jpg)](https://drive.google.com/file/d/1_9zT3OpjmrCfQxsHsm1x_3QI4pHRYDnf/view?usp=sharing)
+
+This demo shows the program's features, including generating a README file based on user inputs.
+
+
 ## License
 This project is licensed under the [MIT](https://opensource.org/licenses/MIT) license.
 
@@ -48,5 +54,5 @@ npm test
 ## Questions
 If you have any questions about the project, feel free to contact me:
 
-- GitHub: [JakeStair](https://github.com/JakeStair)
-- Email: jacob.watson00@yahoo.com
+- GitHub: [j](https://github.com/j)
+- Email: j
