@@ -2,7 +2,7 @@
 
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 
-Quickly and easily generate a README file by using a command-line application.
+Created a professional README generator to be completed on a command line application. Asks the user questions and takes the user's input and generates a README.
 
 ## Table of Contents
 - [Description](#description)
@@ -14,7 +14,7 @@ Quickly and easily generate a README file by using a command-line application.
 - [Questions](#questions)
 
 ## Description
-Quickly and easily generate a README file by using a command-line application to generate one!
+Created a professional README generator to be completed on a command line application. Asks the user questions and takes the user's input and generates a README.
 
 ## Installation
 To install the necessary dependencies, run the following command:
@@ -32,6 +32,7 @@ node index.js
 
 Follow the prompts to enter project details like title, description, license, and more.
 
+## License
 This project is licensed under the [MIT](https://opensource.org/licenses/MIT) license.
 
 ## Contributing

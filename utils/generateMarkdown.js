@@ -61,6 +61,7 @@ node index.js
 
 Follow the prompts to enter project details like title, description, license, and more.
 
+## License
 ${renderLicenseSection(data.license)}
 
 ## Contributing
@@ -80,6 +81,7 @@ If you have any questions about the project, feel free to contact me:
 - Email: ${data.email}
 `;
 }
+
 
 export default generateMarkdown;
 // without this line⤴️, you can access the generateMarkdown function in other files⤴️
